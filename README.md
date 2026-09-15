@@ -8,7 +8,7 @@
 
 ESP32 • Bluetooth Low Energy • Laravel • Real-Time Attendance • IoT
 
-[Source Code](https://github.com/mj0d19/MeshLink) • Live Demo Coming Soon
+[Source Code](https://github.com/mj0d19/MeshLink) • [Live Demo](https://meshlink.onrender.com)
 
 </div>
 
@@ -295,7 +295,7 @@ without requiring the physical ESP32 network to be connected.
 
 A hosted demonstration will be added here:
 
-**Live Demo: Coming Soon**
+**Live Demo:** [https://meshlink.onrender.com](https://meshlink.onrender.com)
 
 ---
 
