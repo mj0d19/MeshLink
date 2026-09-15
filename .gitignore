@@ -1,0 +1,9 @@
+.pio/
+.venv/
+__pycache__/
+*.pyc
+*.bin
+*.elf
+*.map
+*.o
+*.a
